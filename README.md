@@ -1,6 +1,6 @@
 ### Hi，欢迎~
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=aaronzjc)
 
 一个善良，随和的人。
 
